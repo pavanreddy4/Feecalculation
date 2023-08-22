@@ -1,0 +1,10 @@
+C:\Users\HARI\source\repos\FeeCalculation\FeeCalculation\bin\Debug\FeeCalculation.exe.config
+C:\Users\HARI\source\repos\FeeCalculation\FeeCalculation\bin\Debug\FeeCalculation.exe
+C:\Users\HARI\source\repos\FeeCalculation\FeeCalculation\bin\Debug\FeeCalculation.pdb
+C:\Users\HARI\source\repos\FeeCalculation\FeeCalculation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HARI\source\repos\FeeCalculation\FeeCalculation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HARI\source\repos\FeeCalculation\FeeCalculation\obj\Debug\FeeCalculation.csprojAssemblyReference.cache
+C:\Users\HARI\source\repos\FeeCalculation\FeeCalculation\obj\Debug\FeeCalculation.csproj.CoreCompileInputs.cache
+C:\Users\HARI\source\repos\FeeCalculation\FeeCalculation\obj\Debug\FeeCalculation.csproj.CopyComplete
+C:\Users\HARI\source\repos\FeeCalculation\FeeCalculation\obj\Debug\FeeCalculation.exe
+C:\Users\HARI\source\repos\FeeCalculation\FeeCalculation\obj\Debug\FeeCalculation.pdb
